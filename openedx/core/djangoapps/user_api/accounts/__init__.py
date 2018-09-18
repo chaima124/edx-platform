@@ -51,7 +51,7 @@ EMAIL_CONFLICT_MSG = _(
     u"Try again with a different email address."
 )
 USERNAME_CONFLICT_MSG = _(
-    u"It looks like {username} belongs to an existing account. "
+    u"It looks like {username} was already registered. "
     u"Try again with a different username."
 )
 
